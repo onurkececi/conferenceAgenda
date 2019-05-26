@@ -1,0 +1,24 @@
+Track 1
+09:00AM Writing Fast Tests Using Selenium 60min
+10:00AM Face-to-Face Communication 60min
+11:00AM Java Is Not Magic 60min
+12:00PM Lunch
+01:00PM Ruby on Rails: Why We Should Move On 60min
+02:00PM Java Legacy App Maintenance 60min
+03:00PM Overdoing it in Java 45min
+03:45PM Ruby Errors from Mismatched Gem Versions 45min
+04:30PM AngularJS for the Masses 30min
+
+Track 2
+09:00AM Common Hibernate Errors 45min
+09:45AM Domain-Driven Development 45min
+10:30AM Pair Programming vs Noise 45min
+11:15AM Clojure Ate Scala (on my project) 45min
+12:00PM Lunch
+01:00PM A Perfect Sprint Planning 30min
+01:30PM Programming in the Boondocks of Seattle 30min
+02:00PM Development 30min
+02:30PM A World Without Clinical Trials 30min
+03:00PM Rails for Java Developers lightning
+03:05PM Networking Event
+
